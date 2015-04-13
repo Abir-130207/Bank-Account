@@ -1,0 +1,9 @@
+c:\users\abir\documents\visual studio 2010\Projects\Solution1\BO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\BO\bin\Debug\BO.dll
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\BO\bin\Debug\BO.pdb
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\BO\bin\Debug\DAL.dll
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\BO\bin\Debug\Entity.dll
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\BO\bin\Debug\DAL.pdb
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\BO\bin\Debug\Entity.pdb
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\BO\obj\Debug\BO.dll
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\BO\obj\Debug\BO.pdb

@@ -1,0 +1,17 @@
+c:\users\abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\obj\x86\Debug\UI_Desktop.Form1.resources
+c:\users\abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\obj\x86\Debug\UI_Desktop.Properties.Resources.resources
+c:\users\abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\obj\x86\Debug\UI_Desktop.SearchInfo.resources
+c:\users\abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\bin\Debug\UI-Desktop.exe
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\bin\Debug\UI-Desktop.pdb
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\bin\Debug\BO.dll
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\bin\Debug\Entity.dll
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\bin\Debug\DAL.dll
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\bin\Debug\BO.pdb
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\bin\Debug\Entity.pdb
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\bin\Debug\DAL.pdb
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\obj\x86\Debug\UI-Desktop.exe
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\obj\x86\Debug\UI-Desktop.pdb
+C:\Users\Abir\documents\visual studio 2010\Projects\Solution1\UI-Desktop\obj\x86\Debug\UI_Desktop.Update.resources
